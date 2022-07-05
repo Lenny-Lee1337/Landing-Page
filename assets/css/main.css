@@ -2189,3 +2189,33 @@ input, select, textarea {
 			}
 
 		}
+
+
+		.proj-description{
+			margin-top: 15px;
+		}
+
+		#contact-icons{
+			font-size: 50px;
+			color: rgb(40, 40, 134);
+		}
+
+		#social-container{
+			display: flex;
+			justify-content: space-evenly;
+			width: 100%;
+		}
+
+		a{
+			text-decoration: none;
+		}
+
+		.project-links{
+			display: flex;
+			justify-content: space-evenly;
+		}
+
+		.project-links:first-child{
+		     margin-right: 5px; 
+			
+		}
